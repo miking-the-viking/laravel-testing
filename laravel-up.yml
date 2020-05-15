@@ -1,0 +1,7 @@
+app:
+  port: 8080
+database:
+  engine: postgres
+  name: otwell
+  password: secret
+  port: 3306
